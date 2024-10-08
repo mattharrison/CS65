@@ -76,6 +76,14 @@ This project uses Python 3.9+ and relies on the following main libraries:
 
 To see the complete list of dependencies, please check the `pyproject.toml` file.
 
+## Suggested Reading
+
+To deepen your understanding of Python for data analysis, we recommend the following books:
+
+- [*Learning Python for Data*](https://store.metasnake.com/learningpy): This book provides a comprehensive introduction to Python, with a focus on its applications in data analysis. It covers Python fundamentals, essential libraries, and practical examples to help you get started with data-driven projects.
+
+- [*Effective Pandas 2*](https://store.metasnake.com/effective-pandas-book): A guide to mastering data manipulation and analysis with Pandas. This book focuses on efficient workflows, advanced features, and best practices for using Pandas to analyze data
+
 ## Contributing
 
 Contributions are welcome! Feel free to open an issue or submit a pull request if you have suggestions, improvements, or additional notebooks to add.
