@@ -17,8 +17,8 @@ To run the notebooks locally, you will need to create a virtual environment and 
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/data-analysis-python.git
-   cd data-analysis-python
+   git clone git@github.com:mattharrison/CS65.git
+   cd CS65
    ```
 
 2. Set up the environment using `uv`:
@@ -34,15 +34,14 @@ To run the notebooks locally, you will need to create a virtual environment and 
 
    The run:
    ```
-   uv venv
-   uv pip install -r reqs.txt
+   uv sync
    ```
 
    The above commands will create a virtual environment, activate it, and install dependencies.
 
 4. Start Jupyter Notebook:
    ```sh
-   jupyter notebook
+   uv run jupyter notebook
    ```
 
 ### 2. Running on GitHub Codespaces
@@ -75,7 +74,7 @@ This project uses Python 3.9+ and relies on the following main libraries:
 - `seaborn`
 - `scikit-learn`
 
-To see the complete list of dependencies, please check the `req.txt` file.
+To see the complete list of dependencies, please check the `pyproject.toml` file.
 
 ## Contributing
 
