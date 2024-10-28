@@ -9,5 +9,8 @@ dependencies = [
     "notebook>=7.2.2",
     "pandas>=2.2.3",
     "plotly>=5.24.1",
+    "pyarrow>=18.0.0",
     "scikit-learn>=1.5.2",
+    "xlrd>=2.0.1",
+    "yfinance>=0.2.48",
 ]
