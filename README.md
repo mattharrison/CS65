@@ -84,6 +84,8 @@ To deepen your understanding of Python for data analysis, we recommend the follo
 
 - [*Effective Pandas 2*](https://store.metasnake.com/effective-pandas-book): A guide to mastering data manipulation and analysis with Pandas. This book focuses on efficient workflows, advanced features, and best practices for using Pandas to analyze data
 
+- [*Effective Visualization*](https://store.metasnake.com/effective-viz): Learn to apply the CLEAR process and tell stories with your Python plots.
+
 ## Contributing
 
 Contributions are welcome! Feel free to open an issue or submit a pull request if you have suggestions, improvements, or additional notebooks to add.
